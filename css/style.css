@@ -1,0 +1,34 @@
+/* Give the site a new background color */
+body{
+	margin:1%;
+	font-size:125%;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Style the text */
+/* Change the font */
+/* Make your headers bold */
+/* Change the color */
+h1,h2{
+	font-size: 2em; 
+	font-weight: bold;
+    color:white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* Style your images
+Customize the height and width
+Put a border around your images */
+img{
+    height: 150px;
+	width:auto;
+    border: 3px solid blue;
+    padding: 25px;
+    border-radius: 20px;
+    margin: 5px;
+	margin-left: 10%
+}
